@@ -1,0 +1,11 @@
+GPSon	        : f  t  t  t  t
+Servidor	: -  f  t  t  t
+BotaoRaioDeBusc	: -  -  f  t  t
+PosicoesFornec	: -  -  -  f  t
+
+===============================================
+
+GPSNaoOperando	  x
+ErroAcessServ 	     x
+NaoExibeLista		x  x
+ListaEstac        	      x

@@ -1,0 +1,19 @@
+GPSon	        : f  t  t  t  t  t  t  t  t
+Servidor	: -  f  t  t  t  t  t  t  t
+BotaoRaioDeBusc	: -  -  f  t  t  t  t  t  t
+PosicoesFornec	: -  -  -  f  t  t  t  t  t
+SelecionaEstac	: -  -  -  -  f  t  t  t  t
+BotaoMapa	: -  -  -  -  -  f  t  f  f
+BotaoTrajeto	: -  -  -  -  -  f  -  t  f
+BotaoGPS	: -  -  -  -  -  f  -  -  t
+
+===============================================
+
+GPSNaoOperando	  x
+ErroAcessServ 	     x
+NaoExibeLista		x  x
+ListaEstac        	      x 
+ExibeEstac		         x
+ExibeMapa		            x
+ExibeTrajeto			       x
+ExibeRotaGPS			          x

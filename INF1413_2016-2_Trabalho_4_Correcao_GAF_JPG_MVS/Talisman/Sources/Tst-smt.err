@@ -1,0 +1,293 @@
+symbtab.cpp
+tst_smt.cpp
+bcdarit.cpp
+breakpnt.cpp
+counters.cpp
+disaster.cpp
+dynspac.cpp
+environ.cpp
+exceptn.cpp
+global.cpp
+gnrctest.cpp
+int_cnt.cpp
+int_dsp.cpp
+logger.cpp
+main.cpp
+message.cpp
+msgbin.cpp
+msgstr.cpp
+msgtime.cpp
+randgen.cpp
+readtest.cpp
+simplist.cpp
+sioctrl.cpp
+sls_elem.cpp
+string.cpp
+time.cpp
+tracer.cpp
+verifier.cpp
+Microsoft (R) Incremental Linker Version 10.00.40219.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/OUT:Tst-smt.EXE 
+/INCREMENTAL:NO 
+/MACHINE:IX86 
+symbtab.obj tst_smt.obj bcdarit.obj breakpnt.obj counters.obj 
+disaster.obj dynspac.obj environ.obj exceptn.obj global.obj 
+gnrctest.obj int_cnt.obj int_dsp.obj logger.obj main.obj 
+message.obj msgbin.obj msgstr.obj msgtime.obj randgen.obj 
+readtest.obj simplist.obj sioctrl.obj sls_elem.obj string.obj 
+time.obj tracer.obj verifier.obj 
+symbtab.cpp
+Microsoft (R) Incremental Linker Version 10.00.40219.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/OUT:Tst-smt.EXE 
+/INCREMENTAL:NO 
+/MACHINE:IX86 
+symbtab.obj tst_smt.obj bcdarit.obj breakpnt.obj counters.obj 
+disaster.obj dynspac.obj environ.obj exceptn.obj global.obj 
+gnrctest.obj int_cnt.obj int_dsp.obj logger.obj main.obj 
+message.obj msgbin.obj msgstr.obj msgtime.obj randgen.obj 
+readtest.obj simplist.obj sioctrl.obj sls_elem.obj string.obj 
+time.obj tracer.obj verifier.obj 
+symbtab.cpp
+tst_smt.cpp
+bcdarit.cpp
+breakpnt.cpp
+counters.cpp
+disaster.cpp
+dynspac.cpp
+environ.cpp
+exceptn.cpp
+global.cpp
+gnrctest.cpp
+int_cnt.cpp
+int_dsp.cpp
+logger.cpp
+main.cpp
+message.cpp
+msgbin.cpp
+msgstr.cpp
+msgtime.cpp
+randgen.cpp
+readtest.cpp
+simplist.cpp
+sioctrl.cpp
+sls_elem.cpp
+string.cpp
+time.cpp
+tracer.cpp
+verifier.cpp
+Microsoft (R) Incremental Linker Version 10.00.40219.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/OUT:Tst-smt.EXE 
+/INCREMENTAL:NO 
+/MACHINE:IX86 
+symbtab.obj tst_smt.obj bcdarit.obj breakpnt.obj counters.obj 
+disaster.obj dynspac.obj environ.obj exceptn.obj global.obj 
+gnrctest.obj int_cnt.obj int_dsp.obj logger.obj main.obj 
+message.obj msgbin.obj msgstr.obj msgtime.obj randgen.obj 
+readtest.obj simplist.obj sioctrl.obj sls_elem.obj string.obj 
+time.obj tracer.obj verifier.obj 
+symbtab.cpp
+tst_smt.cpp
+bcdarit.cpp
+breakpnt.cpp
+counters.cpp
+disaster.cpp
+dynspac.cpp
+environ.cpp
+exceptn.cpp
+global.cpp
+gnrctest.cpp
+int_cnt.cpp
+int_dsp.cpp
+logger.cpp
+main.cpp
+message.cpp
+msgbin.cpp
+msgstr.cpp
+msgtime.cpp
+randgen.cpp
+readtest.cpp
+simplist.cpp
+sioctrl.cpp
+sls_elem.cpp
+string.cpp
+time.cpp
+tracer.cpp
+verifier.cpp
+Microsoft (R) Incremental Linker Version 10.00.40219.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/OUT:Tst-smt.EXE 
+/INCREMENTAL:NO 
+/MACHINE:IX86 
+symbtab.obj tst_smt.obj bcdarit.obj breakpnt.obj counters.obj 
+disaster.obj dynspac.obj environ.obj exceptn.obj global.obj 
+gnrctest.obj int_cnt.obj int_dsp.obj logger.obj main.obj 
+message.obj msgbin.obj msgstr.obj msgtime.obj randgen.obj 
+readtest.obj simplist.obj sioctrl.obj sls_elem.obj string.obj 
+time.obj tracer.obj verifier.obj 
+symbtab.cpp
+tst_smt.cpp
+bcdarit.cpp
+breakpnt.cpp
+counters.cpp
+disaster.cpp
+dynspac.cpp
+environ.cpp
+exceptn.cpp
+global.cpp
+gnrctest.cpp
+int_cnt.cpp
+int_dsp.cpp
+logger.cpp
+main.cpp
+message.cpp
+msgbin.cpp
+msgstr.cpp
+msgtime.cpp
+randgen.cpp
+readtest.cpp
+simplist.cpp
+sioctrl.cpp
+sls_elem.cpp
+string.cpp
+time.cpp
+tracer.cpp
+verifier.cpp
+Microsoft (R) Incremental Linker Version 10.00.40219.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/OUT:Tst-smt.EXE 
+/INCREMENTAL:NO 
+/MACHINE:IX86 
+symbtab.obj tst_smt.obj bcdarit.obj breakpnt.obj counters.obj 
+disaster.obj dynspac.obj environ.obj exceptn.obj global.obj 
+gnrctest.obj int_cnt.obj int_dsp.obj logger.obj main.obj 
+message.obj msgbin.obj msgstr.obj msgtime.obj randgen.obj 
+readtest.obj simplist.obj sioctrl.obj sls_elem.obj string.obj 
+time.obj tracer.obj verifier.obj 
+symbtab.cpp
+tst_smt.cpp
+bcdarit.cpp
+breakpnt.cpp
+counters.cpp
+disaster.cpp
+dynspac.cpp
+environ.cpp
+exceptn.cpp
+global.cpp
+gnrctest.cpp
+int_cnt.cpp
+int_dsp.cpp
+logger.cpp
+main.cpp
+message.cpp
+msgbin.cpp
+msgstr.cpp
+msgtime.cpp
+randgen.cpp
+readtest.cpp
+simplist.cpp
+sioctrl.cpp
+sls_elem.cpp
+string.cpp
+time.cpp
+tracer.cpp
+verifier.cpp
+Microsoft (R) Incremental Linker Version 10.00.40219.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/OUT:Tst-smt.EXE 
+/INCREMENTAL:NO 
+/MACHINE:IX86 
+symbtab.obj tst_smt.obj bcdarit.obj breakpnt.obj counters.obj 
+disaster.obj dynspac.obj environ.obj exceptn.obj global.obj 
+gnrctest.obj int_cnt.obj int_dsp.obj logger.obj main.obj 
+message.obj msgbin.obj msgstr.obj msgtime.obj randgen.obj 
+readtest.obj simplist.obj sioctrl.obj sls_elem.obj string.obj 
+time.obj tracer.obj verifier.obj 
+symbtab.cpp
+tst_smt.cpp
+bcdarit.cpp
+breakpnt.cpp
+counters.cpp
+disaster.cpp
+dynspac.cpp
+environ.cpp
+exceptn.cpp
+global.cpp
+gnrctest.cpp
+int_cnt.cpp
+int_dsp.cpp
+logger.cpp
+main.cpp
+message.cpp
+msgbin.cpp
+msgstr.cpp
+msgtime.cpp
+randgen.cpp
+readtest.cpp
+simplist.cpp
+sioctrl.cpp
+sls_elem.cpp
+string.cpp
+time.cpp
+tracer.cpp
+verifier.cpp
+Microsoft (R) Incremental Linker Version 10.00.40219.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/OUT:Tst-smt.EXE 
+/INCREMENTAL:NO 
+/MACHINE:IX86 
+symbtab.obj tst_smt.obj bcdarit.obj breakpnt.obj counters.obj 
+disaster.obj dynspac.obj environ.obj exceptn.obj global.obj 
+gnrctest.obj int_cnt.obj int_dsp.obj logger.obj main.obj 
+message.obj msgbin.obj msgstr.obj msgtime.obj randgen.obj 
+readtest.obj simplist.obj sioctrl.obj sls_elem.obj string.obj 
+time.obj tracer.obj verifier.obj 
+symbtab.cpp
+tst_smt.cpp
+bcdarit.cpp
+breakpnt.cpp
+counters.cpp
+disaster.cpp
+dynspac.cpp
+environ.cpp
+exceptn.cpp
+global.cpp
+gnrctest.cpp
+int_cnt.cpp
+int_dsp.cpp
+logger.cpp
+main.cpp
+message.cpp
+msgbin.cpp
+msgstr.cpp
+msgtime.cpp
+randgen.cpp
+readtest.cpp
+simplist.cpp
+sioctrl.cpp
+sls_elem.cpp
+string.cpp
+time.cpp
+tracer.cpp
+verifier.cpp
+Microsoft (R) Incremental Linker Version 10.00.40219.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/OUT:Tst-smt.EXE 
+/INCREMENTAL:NO 
+/MACHINE:IX86 
+symbtab.obj tst_smt.obj bcdarit.obj breakpnt.obj counters.obj 
+disaster.obj dynspac.obj environ.obj exceptn.obj global.obj 
+gnrctest.obj int_cnt.obj int_dsp.obj logger.obj main.obj 
+message.obj msgbin.obj msgstr.obj msgtime.obj randgen.obj 
+readtest.obj simplist.obj sioctrl.obj sls_elem.obj string.obj 
+time.obj tracer.obj verifier.obj 

@@ -1,0 +1,8 @@
+PosicoesFornec	: f  t  t
+SelecionaEstac	: -  f  t
+
+===============================================
+
+NaoExibeLista	  x
+ListaEstac           x 
+ExibeEstac		x

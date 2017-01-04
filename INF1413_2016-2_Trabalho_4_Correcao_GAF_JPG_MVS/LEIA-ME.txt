@@ -1,0 +1,16 @@
+João Pedro Garcia
+Gabriel Fuchs
+Marcus Vinicius Siqueira
+
+A pasta "Pasta Talisman usada" contem todos os arquivos que foram fornecidos pelo professor já alterados por nós
+contem:
+	-Batches
+	-Comp
+	-Documents
+	-Obj
+	-Sources
+	-Tables
+	-TestCase
+
+Os mutantes se encontram na pasta da questão 5.
+
